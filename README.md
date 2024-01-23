@@ -1,6 +1,6 @@
 # Minesweeper Game
 
-![Minesweeper Screenshot](minesweeper.png)
+<img src="minesweeper.png" alt="Minesweeper Screenshot" width="300">
 
 ## Overview
 
